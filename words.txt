@@ -1,3 +1,11 @@
+university
+class
+home
+new
+lecture
+
+
+
 total 9.6M
 -rw-r--r-- 1 dayoung 197121 9.3K May 24 12:02 12장.ipynb
 drwxr-xr-x 1 dayoung 197121    0 Apr 22 00:58 AppData/
